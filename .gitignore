@@ -1,0 +1,7 @@
+node_modules/*
+bak/*
+*.DS_Store
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+assets/dist
